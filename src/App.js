@@ -7,6 +7,8 @@ class Hello extends Component{
     return(
       <div>
         hello
+        more hello
+        one more commit
       </div>
     )
   }
