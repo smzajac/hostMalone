@@ -9,7 +9,7 @@ class Hello extends Component{
         hello
         more hello
         one more commit
-        yolo3
+        yolo6
       </div>
     )
   }
